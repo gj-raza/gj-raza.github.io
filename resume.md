@@ -5,11 +5,12 @@ layout: tabs
 email: ghualm.jilani.raza@outlook.com  
 linkedin: https://www.linkedin.com/in/ghulam-jilani-raza-a9a931a3/
 ## Tech Stack 
-__ML__ : Pytorch, Keras  
-__Development__: Python, C++/Cmake, Rust  
+__ML__ : Python, Pytorch, Keras  
+__Systems Development__: C++/Cmake, Rust
+__Debuggers/Profilers__: Vlagrind, Nvidia Nsight, GDB, ASAN 
 __Model Optimisation/ Compression__: TensorRT, OpenVino, TFLite, Intel NNCF  
-__Deployment/Ops__: Docker, AWS, GCP, Grafana, Prometheus  
-__Hardware Platforms__: Nvidia Jetsons, Intel CPU/GPU, Intel NCS2  
+__Deployment/Ops__: Docker, AWS, GCP, Grafana, Prometheus, Github Actions, Buildkite  
+__Hardware Platforms__: Nvidia Jetsons, Intel CPUs/GPUs, Intel NCS2, ARMv7, ARMv8, EdgeTPU, Roseek Lynx, Axis ARTPEC-7  
 
 ## Experience
 __aletheia.ai / Senior ML Engineer__  
