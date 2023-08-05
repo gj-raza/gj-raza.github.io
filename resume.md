@@ -12,6 +12,23 @@ __Deployment/Ops__: Docker, AWS, GCP, Grafana, Prometheus
 __Hardware Platforms__: Nvidia Jetsons, Intel CPU/GPU, Intel NCS2  
 
 ## Experience
+__aletheia.ai / Senior ML Engineer__  
+February 2023 - Present, Lahore Pakistan  
+
+Acting as lead developer/product owner for developing a computer vision based manufacturing analytics 
+product for cement manufacturing companies . It involves solving various ML problems including:  
+
+
+- High accuracy Pakistani license plate recognition
+- Vehicle Detection
+- Processing 20+ camera streams in parallel
+- Accurate counting of cement bags
+- Facial Recognition
+- System optimization to make sure all components run in real time and
+- within acceptable downtime limits.
+- Keeping the codebase healthy and sustainable.
+
+
 __Hazen.ai / AI Engineer__  
 November 2019 - October 2022, Lahore Pakistan  
   
@@ -37,18 +54,17 @@ resources. Took Hazen’s ALPR pipeline inference latency from 66ms
 5x speed up without compromising accuracy.
 
 
-__aletheia.ai / Senior ML Engineer__  
-February 2023 - Present, Lahore Pakistan  
 
-Acting as lead developer/product owner for developing a computer vision based manufacturing analytics 
-product for cement manufacturing companies . It involves solving various ML problems including:  
+## Education
+__Lahore University of Management Sciences / MS Electrical Engineering__  
+June 2017 - December 2019, Lahore  
+  
+- Major Courses: Digital System Design , Computer Architecture , Deep Learning,
+Data Mining , Embedded Systems
 
+__National University of Sciences and Technology / BS Electrical Engineering__  
+August 2011 - August 2015, Islamabad  
 
-- High accuracy Pakistani license plate recognition
-- Vehicle Detection
-- Processing 20+ camera streams in parallel
-- Accurate counting of cement bags
-- Facial Recognition
-- System optimization to make sure all components run in real time and
-- within acceptable downtime limits.
-- Keeping the codebase healthy and sustainable.
+## Publications
+Accelerating Tiny YOLOv3 using FPGA-Based Hardware/Software
+Co-Design [MS-Thesis]- Published in [ISCAS2020](https://ieeexplore.ieee.org/document/9180843])
