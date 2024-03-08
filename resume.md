@@ -17,20 +17,23 @@ __Hardware Platforms__: Nvidia Jetsons, Intel CPUs/GPUs, Intel NCS2, ARMv7, ARMv
 __Independent Consulting / Freelance__  
 October 2023 - Present
 
-Develpoing computer vision based solution for various clinets.  
+Develpoing computer vision based solutions for various clients.  
 Some projects I've worked on:  
 
 
 -  Real time Violent Action Recognition in schools:
-    - Develping a complete ML backend solution for real time violent action  
-    recognition over RTSP camera streams. Including model training, data collection,  
-    desigining inference pipeline and its developement. Achieved real time processing 
-    of 33 rtsp streams on a single RTX 3070 GPU, with room for more improvments.
+    - Developing a complete ML backend solution for real time violent
+      action recognition over RTSP camera streams. Including model
+      training, data collection, designing inference pipeline and its
+      development. Achieved real time processing of 33 RTSP streams
+      on a single RTX 3070 GPU, with room for more improvements.
+      
 - PPE compliance on factory floors:
-    - Developed an Object detection model for detecting personal protective eqiuipment  
-    including hard hat and safety vest. Goal was to ensure  that the personnel were  
-    wearing safety gear when entering a certain area. Solution invloved Object Detection,
-    Tracking and custom logic
+    - Developed an Object detection model for detecting personal
+      protective equipment including hard hat and safety vest. Goal
+      was to ensure that the personnel were wearing safety gear when
+      entering a certain area. Solution involved Object Detection,
+      Tracking and custom logic
 
 
 __aletheia.ai / Senior ML Engineer__  
