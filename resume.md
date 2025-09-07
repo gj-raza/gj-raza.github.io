@@ -21,19 +21,20 @@ Develpoing computer vision based solutions for various clients.
 Some projects I've worked on:  
 
 
--  Real time Violent Action Recognition in schools:
-    - Developing a complete ML backend solution for real time violent
-      action recognition over RTSP camera streams. Including model
-      training, data collection, designing inference pipeline and its
-      development. Achieved real time processing of 33 RTSP streams
-      on a single RTX 3070 GPU, with room for more improvements.
-      
-- PPE compliance on factory floors:
-    - Developed an Object detection model for detecting personal
-      protective equipment including hard hat and safety vest. Goal
-      was to ensure that the personnel were wearing safety gear when
-      entering a certain area. Solution involved Object Detection,
-      Tracking and custom logic
+-  Real time Video Analytics (ongoing):
+    - Developing a distributed and scalable inference backend for real
+      time recognition of various actions and entities over 10000+ RTSP
+      camera streams. Including: Activity Detection, Smoking
+      Compliance, Violent action recognition, Uniform
+      Compliance,Weapon Detection, Camera Covered/Signal Lost
+      Detection.
+      Developing customs object detection, action recognition models
+      For above mentioned use cases including RetinaNet and SlowFast
+      networks.
+      This group of works is a part of a vision based surveillance
+      product in which one can apply multiple models to any number of
+      camera streams in their premises via a dashboard and get alerts
+      for various types of detections from those models.
 
 
 __aletheia.ai / Senior ML Engineer__  
